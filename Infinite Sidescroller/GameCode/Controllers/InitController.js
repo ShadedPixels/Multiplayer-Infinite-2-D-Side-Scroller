@@ -36,7 +36,7 @@ var InitController = (function(){
 		// if more stuff needs to be done for the test mode, 
 		// or more types of it needs to be added
 		// you can safely make the following a separate function
-			var asset_path = (mode == "test") ? "./assets/art/" : "../GameCode/assets/art/";
+			var asset_path = (mode == "test") ? "images/" : "images/";
 
 		AssetController.init(asset_path);
 
