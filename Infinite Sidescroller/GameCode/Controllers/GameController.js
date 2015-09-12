@@ -79,7 +79,7 @@ var GameController = (function(){
 		console.log("used up life.", GameModel.team_lives, "left");
 	};
 
-	var get_life_count = function(arguments){
+	var get_life_count = function(){
 		/**
 		* get count of remaining lives
 		*/

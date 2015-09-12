@@ -472,7 +472,7 @@ var NetworkController = (function(){
 	};
 
 
-	var on_unload = function(arguments){
+	var on_unload = function(){
 		/**
 		* will be called when the user is about to leave the web page
 		* will make sure connections are gracefully closed and peers are destroyed

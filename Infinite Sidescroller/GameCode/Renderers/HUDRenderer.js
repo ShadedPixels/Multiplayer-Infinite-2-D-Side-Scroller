@@ -137,7 +137,7 @@ var HUDRenderer = (function(){
 		
 	};
 
-	var position_remote_icons_container = function(arguments){
+	var position_remote_icons_container = function(){
 		/**
 		* description
 		*/

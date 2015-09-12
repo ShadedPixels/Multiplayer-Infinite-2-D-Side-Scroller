@@ -41,7 +41,7 @@ var WorldController = (function(){
 
 	};
 
-	var update_progress = function(arguments){
+	var update_progress = function(){
 		/**
 		* 
 		*/
